@@ -232,6 +232,12 @@ ConfusionMatrix
 
 .. autoclass:: pytorch_lightning.metrics.classification.ConfusionMatrix
     :noindex:
+    
+Iou
+~~~~~~~~~~~~~~~
+
+.. autoclass:: pytorch_lightning.metrics.classification.Iou
+    :noindex:
 
 Regression Metrics
 ------------------
