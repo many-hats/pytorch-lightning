@@ -37,6 +37,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
 - Fixed auto learning rate ordering ([#5638](https://github.com/PyTorchLightning/pytorch-lightning/pull/5638))
 
+- Fixed wrong `requires_grad` state after `return None` with multiple optimizers ([#5738](https://github.com/PyTorchLightning/pytorch-lightning/pull/5638))
 
 ## [1.1.6] - 2021-01-26
 
